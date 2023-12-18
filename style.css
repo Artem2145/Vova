@@ -1,0 +1,60 @@
+html {
+    font-size: 1px;
+}
+
+body {
+    font-size: 18rem;
+    font-family: 'Roboto', sans-serif;
+}
+
+.wrapper {
+    margin: 0 auto;
+    width: 82%;
+
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav {
+    background-color: #4169E1;
+    display: flex;
+    padding: 10px;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+
+.header-menu li {
+    list-style: none;
+    display: flex;
+}
+
+h1{
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+
+.header-menu a {
+    color: white;
+    margin-left: 20px;
+    font-size: 15px;
+    text-decoration: none;
+}
+
+main img {
+    width: 300px;
+    height: 400px;
+    text-align: center;
+}
+
+.pan {
+    text-align: center;
+}
+main p{
+    font-size: 15px;
+    line-height: 1.5;
+    letter-spacing: 0.00938em;
+}
